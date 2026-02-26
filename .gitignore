@@ -1,0 +1,14 @@
+# Binaries
+ed_clone
+term_demo
+test_editor
+v_clone
+test_colors
+a.out
+
+# Object files
+*.o
+
+# Others
+*.swp
+*.log
