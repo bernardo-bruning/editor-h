@@ -4,7 +4,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-// This is a test
 void print_line(editor_t *ed, size_t pos) {
     size_t start = editor_find_line_start(ed, pos);
     size_t end = editor_find_line_end(ed, pos);
